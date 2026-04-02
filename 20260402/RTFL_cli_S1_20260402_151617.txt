@@ -7,12 +7,6 @@
 # start the command batch
 batch start
 
-board_name FLYWOOF405NANO
-board_design BTFL
-manufacturer_id FLWO
-mcu_id 003700433130500620353248
-signature 
-
 # name: S1
 
 # resources
